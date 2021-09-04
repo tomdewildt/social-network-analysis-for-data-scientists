@@ -74,8 +74,8 @@
       "RemoteUsername": "SNAnalyst",
       "RemoteRepo": "SNA4DS",
       "RemoteRef": "main",
-      "RemoteSha": "ac3201d39284a3e16e246f3e817eef8df2ab627c",
-      "Hash": "99ba5ba857ebea708052102afcc86273"
+      "RemoteSha": "18fd002593490d4e9f9eacf2ad9d7daf59c1525e",
+      "Hash": "d9662a7606288089787fbe4f6c9e2ef4"
     },
     "SNA4DSData": {
       "Package": "SNA4DSData",
@@ -387,11 +387,11 @@
       "Source": "GitHub",
       "RemoteType": "github",
       "RemoteHost": "api.github.com",
-      "RemoteUsername": "rstudio",
+      "RemoteUsername": "rstudio-education",
       "RemoteRepo": "gradethis",
       "RemoteRef": "master",
       "RemoteSha": "e9b10ae3aa30de377a70f766591bb7153c008f09",
-      "Hash": "74a36dc6838ee2f69ec702d6bc524c28"
+      "Hash": "af9cb29ae0db3cae507d7063ddc3c29b"
     },
     "gtools": {
       "Package": "gtools",
@@ -612,6 +612,13 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "a3a94709afe998d2745847ce69c6c5d9"
+    },
+    "networkD3": {
+      "Package": "networkD3",
+      "Version": "0.4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "38310ec4ddb1398359abdd603c151067"
     },
     "networkDynamic": {
       "Package": "networkDynamic",
@@ -858,10 +865,10 @@
     },
     "survival": {
       "Package": "survival",
-      "Version": "3.2-12",
+      "Version": "3.2-13",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "dcdc241a75d17656fec8d02cd8215c39"
+      "Hash": "6f0a0fadc63bc6570fe172770f15bbc4"
     },
     "sys": {
       "Package": "sys",
