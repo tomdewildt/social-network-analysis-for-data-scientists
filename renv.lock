@@ -442,6 +442,13 @@
       "Repository": "CRAN",
       "Hash": "7b1f856410253d56ea67ad808f7cdff6"
     },
+    "igraphdata": {
+      "Package": "igraphdata",
+      "Version": "1.0.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "19b10fb768a7646b600a7ade3f8cade6"
+    },
     "ina": {
       "Package": "ina",
       "Version": "0.0.12",
