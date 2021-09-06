@@ -123,3 +123,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+### Custom ###
+# Scratch notebook
+src/scratch.R
