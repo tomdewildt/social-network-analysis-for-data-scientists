@@ -20,7 +20,12 @@ m[1, 2] <- 1
 
 ### 5. Inspect m, what can you say about the matrix you just created? Can you
 ###    check this using an appropriate R function?
-m
+length(m)
+nrow(m)
+ncol(m)
+isSymmetric(m)
+
+#### Matrix m is symmetric.
 
 ### 6. Add two columns to the right of m and two rows to the bottom, each
 ###    containing zeroes? Call them D and E.
@@ -36,7 +41,7 @@ m <- rbind(m, D = 0, E = 0)
 ###    X 1  2  3  4
 ###    Y 5  6  7  8
 ###    Z 9 10 11 12
-m <- matrix(c(1, 5, 9, 2, 6, 10, 3, 7, 11, 4, 8, 12), nrow = 3, ncol = 4)
+m <- matrix(1:12, byrow = TRUE, nrow = 3, ncol = 4)
 rownames(m) <- c("X", "Y", "Z")
 colnames(m) <- c("o", "p", "q", "r")
 
