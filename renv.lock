@@ -67,27 +67,27 @@
     },
     "SNA4DS": {
       "Package": "SNA4DS",
-      "Version": "0.10.2",
+      "Version": "0.10.3",
       "Source": "GitHub",
       "RemoteType": "github",
       "RemoteHost": "api.github.com",
       "RemoteUsername": "SNAnalyst",
       "RemoteRepo": "SNA4DS",
       "RemoteRef": "main",
-      "RemoteSha": "18fd002593490d4e9f9eacf2ad9d7daf59c1525e",
-      "Hash": "d9662a7606288089787fbe4f6c9e2ef4"
+      "RemoteSha": "caa413c57346bd3ffb1f4ff27c71e01914dabb26",
+      "Hash": "7492d2966ff3e77d85313012ce0bd46e"
     },
     "SNA4DSData": {
       "Package": "SNA4DSData",
-      "Version": "0.9.9001",
+      "Version": "0.9.9002",
       "Source": "GitHub",
       "RemoteType": "github",
       "RemoteHost": "api.github.com",
       "RemoteUsername": "SNAnalyst",
       "RemoteRepo": "SNA4DSData",
       "RemoteRef": "master",
-      "RemoteSha": "3d6dad5821306ff4cfc8b1e1b17482f870f5911b",
-      "Hash": "798e94bc761a3ec5c128f180512361f0"
+      "RemoteSha": "f7556475f92fb3ea6e517de5ec95c9b48525f5b0",
+      "Hash": "8de252ccc962bdbca543b8805c2bb1a6"
     },
     "abind": {
       "Package": "abind",
@@ -346,6 +346,13 @@
       "Repository": "CRAN",
       "Hash": "77bd60a6157420d4ffa93b27cf6a58b8"
     },
+    "fontawesome": {
+      "Package": "fontawesome",
+      "Version": "0.2.2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "55624ed409e46c5f358b2c060be87f67"
+    },
     "foreign": {
       "Package": "foreign",
       "Version": "0.8-81",
@@ -390,8 +397,8 @@
       "RemoteUsername": "rstudio-education",
       "RemoteRepo": "gradethis",
       "RemoteRef": "master",
-      "RemoteSha": "e9b10ae3aa30de377a70f766591bb7153c008f09",
-      "Hash": "af9cb29ae0db3cae507d7063ddc3c29b"
+      "RemoteSha": "35ceaf5d6358841a82333027de01f4aae668bff9",
+      "Hash": "e12c5c91180ba0a7467ec504141b43d5"
     },
     "gtools": {
       "Package": "gtools",
@@ -526,15 +533,15 @@
     },
     "learnr": {
       "Package": "learnr",
-      "Version": "0.10.1.9014",
+      "Version": "0.10.1.9015",
       "Source": "GitHub",
       "RemoteType": "github",
       "RemoteHost": "api.github.com",
       "RemoteUsername": "rstudio",
       "RemoteRepo": "learnr",
       "RemoteRef": "master",
-      "RemoteSha": "e93658b6e99ef65915a13fea3eb5e04a8f362297",
-      "Hash": "2b747a711489d35ef7a6ab3e2427c62c"
+      "RemoteSha": "325746143d13b80283d2eee88b064e57a52d5669",
+      "Hash": "94e3ab6d92665dfb069b89c836698e3c"
     },
     "lifecycle": {
       "Package": "lifecycle",
