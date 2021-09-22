@@ -9,6 +9,13 @@
     ]
   },
   "Packages": {
+    "DBI": {
+      "Package": "DBI",
+      "Version": "1.1.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "030aaec5bc6553f35347cbb1e70b1a17"
+    },
     "DEoptimR": {
       "Package": "DEoptimR",
       "Version": "1.0-9",
@@ -36,6 +43,27 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "4ed05e9c9726267e4a5872e09c04587c"
+    },
+    "R.methodsS3": {
+      "Package": "R.methodsS3",
+      "Version": "1.8.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "4bf6453323755202d5909697b6f7c109"
+    },
+    "R.oo": {
+      "Package": "R.oo",
+      "Version": "1.24.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "5709328352717e2f0a9c012be8a97554"
+    },
+    "R.utils": {
+      "Package": "R.utils",
+      "Version": "2.10.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "a9e316277ff12a43997266f2f6567780"
     },
     "R6": {
       "Package": "R6",
@@ -67,27 +95,27 @@
     },
     "SNA4DS": {
       "Package": "SNA4DS",
-      "Version": "0.10.3",
+      "Version": "0.10.4",
       "Source": "GitHub",
       "RemoteType": "github",
       "RemoteHost": "api.github.com",
       "RemoteUsername": "SNAnalyst",
       "RemoteRepo": "SNA4DS",
       "RemoteRef": "main",
-      "RemoteSha": "caa413c57346bd3ffb1f4ff27c71e01914dabb26",
-      "Hash": "7492d2966ff3e77d85313012ce0bd46e"
+      "RemoteSha": "7032810aa6b2fbac07ee8e9c447344012a567e01",
+      "Hash": "76075aa4dc905aa37bffa8e182ce16b2"
     },
     "SNA4DSData": {
       "Package": "SNA4DSData",
-      "Version": "0.9.9002",
+      "Version": "0.9.902",
       "Source": "GitHub",
       "RemoteType": "github",
       "RemoteHost": "api.github.com",
       "RemoteUsername": "SNAnalyst",
       "RemoteRepo": "SNA4DSData",
       "RemoteRef": "master",
-      "RemoteSha": "f7556475f92fb3ea6e517de5ec95c9b48525f5b0",
-      "Hash": "8de252ccc962bdbca543b8805c2bb1a6"
+      "RemoteSha": "550420b017aed545e7b4594a7be4b1263c875885",
+      "Hash": "df0db3d6a68dc2fe462125099d12b823"
     },
     "abind": {
       "Package": "abind",
@@ -269,6 +297,13 @@
       "Repository": "CRAN",
       "Hash": "e75525c55c70e5f4f78c9960a4b402e9"
     },
+    "crosstalk": {
+      "Package": "crosstalk",
+      "Version": "1.1.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "2b06f9e415a62b6762e4b8098d2aecbc"
+    },
     "curl": {
       "Package": "curl",
       "Version": "4.3.2",
@@ -282,6 +317,13 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "53cbed70a2f7472d48fb6aef08442f25"
+    },
+    "data.table": {
+      "Package": "data.table",
+      "Version": "1.14.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "d1b8b1a821ee564a3515fa6c6d5c52dc"
     },
     "desc": {
       "Package": "desc",
@@ -346,6 +388,13 @@
       "Repository": "CRAN",
       "Hash": "77bd60a6157420d4ffa93b27cf6a58b8"
     },
+    "filehash": {
+      "Package": "filehash",
+      "Version": "2.4-2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "417af4bf86b11fdc8737a28905a35136"
+    },
     "fontawesome": {
       "Package": "fontawesome",
       "Version": "0.2.2",
@@ -360,6 +409,13 @@
       "Repository": "CRAN",
       "Hash": "74628ea7a3be5ee8a7b5bb0a8e84882e"
     },
+    "formatR": {
+      "Package": "formatR",
+      "Version": "1.11",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "2590a6a868515a69f258640a51b724c9"
+    },
     "fs": {
       "Package": "fs",
       "Version": "1.5.0",
@@ -373,6 +429,13 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "4d243a9c10b00589889fe32314ffd902"
+    },
+    "gifski": {
+      "Package": "gifski",
+      "Version": "1.4.3-1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "73d7566604b51f704a2f33b2efef470c"
     },
     "glue": {
       "Package": "glue",
@@ -390,15 +453,15 @@
     },
     "gradethis": {
       "Package": "gradethis",
-      "Version": "0.2.3.9001",
+      "Version": "0.2.4.9000",
       "Source": "GitHub",
       "RemoteType": "github",
       "RemoteHost": "api.github.com",
       "RemoteUsername": "rstudio-education",
       "RemoteRepo": "gradethis",
       "RemoteRef": "master",
-      "RemoteSha": "35ceaf5d6358841a82333027de01f4aae668bff9",
-      "Hash": "e12c5c91180ba0a7467ec504141b43d5"
+      "RemoteSha": "ededf4b32a2e412de0838909b34903bbe36dd7d4",
+      "Hash": "5650251bedd80938e7c4ae3f3d9d8f20"
     },
     "gtools": {
       "Package": "gtools",
@@ -406,6 +469,13 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "2ace6c4a06297d0b364e0444384a2b82"
+    },
+    "here": {
+      "Package": "here",
+      "Version": "1.0.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "24b224366f9c2e7534d2344d10d59211"
     },
     "highr": {
       "Package": "highr",
@@ -482,6 +552,13 @@
       "Repository": "CRAN",
       "Hash": "d0b8656ef6f15b4b20aef33a7e1cd2af"
     },
+    "jpeg": {
+      "Package": "jpeg",
+      "Version": "0.1-9",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "441ee36360a57b363f4fa3df0c364630"
+    },
     "jquerylib": {
       "Package": "jquerylib",
       "Version": "0.1.4",
@@ -498,10 +575,10 @@
     },
     "knitr": {
       "Package": "knitr",
-      "Version": "1.33",
+      "Version": "1.34",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "0bc1b5da1b0eb07cd4b727e95e9ff0b8"
+      "Hash": "aa958054ac6f0360926bb952ea302f0f"
     },
     "latentnet": {
       "Package": "latentnet",
@@ -695,6 +772,13 @@
       "Repository": "CRAN",
       "Hash": "463642747f81879e6752485aefb831cf"
     },
+    "png": {
+      "Package": "png",
+      "Version": "0.1-7",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "03b7076c234cb3331288919983326c55"
+    },
     "praise": {
       "Package": "praise",
       "Version": "1.0.0",
@@ -758,12 +842,26 @@
       "Repository": "CRAN",
       "Hash": "9f10d9db5b50400c348920c5c603385e"
     },
+    "reticulate": {
+      "Package": "reticulate",
+      "Version": "1.22",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "b34a8bb69005168078d1d546a53912b2"
+    },
     "rex": {
       "Package": "rex",
       "Version": "1.2.0",
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "093584b944440c5cd07a696b3c8e0e4c"
+    },
+    "rgl": {
+      "Package": "rgl",
+      "Version": "0.107.14",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "e7dc7599825dea5d5809478586948141"
     },
     "rlang": {
       "Package": "rlang",
@@ -835,6 +933,13 @@
       "Repository": "CRAN",
       "Hash": "6e3b6ae7fe02b5859e4bb277f218b8ae"
     },
+    "showtextdb": {
+      "Package": "showtextdb",
+      "Version": "3.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "c12e756cf947e58b0f2c2a520521a5a8"
+    },
     "sna": {
       "Package": "sna",
       "Version": "2.6",
@@ -891,6 +996,34 @@
       "Repository": "CRAN",
       "Hash": "b227d13e29222b4574486cfcbde077fa"
     },
+    "sysfonts": {
+      "Package": "sysfonts",
+      "Version": "0.8.5",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "d5e2db91a3aa1ac242a6edb6b2093eb5"
+    },
+    "systemfonts": {
+      "Package": "systemfonts",
+      "Version": "1.0.2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "f2e17ba09737e2e7e2ec40fc1f9b6e08"
+    },
+    "targets": {
+      "Package": "targets",
+      "Version": "0.7.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "f3bb17418c64dda3c4d4992f31e77afb"
+    },
+    "testit": {
+      "Package": "testit",
+      "Version": "0.13",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "996a96428543889c9420e516f59b18ac"
+    },
     "testthat": {
       "Package": "testthat",
       "Version": "3.0.4",
@@ -918,6 +1051,13 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "7243004a708d06d4716717fa1ff5b2fe"
+    },
+    "tikzDevice": {
+      "Package": "tikzDevice",
+      "Version": "0.12.3.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "78009f10e5ea26a71103c5ad22632fc8"
     },
     "tinytex": {
       "Package": "tinytex",
@@ -953,6 +1093,13 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "312b264fae22fdba83b7a74187a24da8"
+    },
+    "webshot": {
+      "Package": "webshot",
+      "Version": "0.5.2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "e99d80ad34457a4853674e89d5e806de"
     },
     "withr": {
       "Package": "withr",
