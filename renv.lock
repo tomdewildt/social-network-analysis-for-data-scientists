@@ -95,27 +95,27 @@
     },
     "SNA4DS": {
       "Package": "SNA4DS",
-      "Version": "0.10.4",
+      "Version": "0.11.3",
       "Source": "GitHub",
       "RemoteType": "github",
       "RemoteHost": "api.github.com",
       "RemoteUsername": "SNAnalyst",
       "RemoteRepo": "SNA4DS",
       "RemoteRef": "main",
-      "RemoteSha": "7032810aa6b2fbac07ee8e9c447344012a567e01",
-      "Hash": "76075aa4dc905aa37bffa8e182ce16b2"
+      "RemoteSha": "ed9090148df987c783d6c8fa4c54bf120dc418fd",
+      "Hash": "ddcc0867587e33ca44cdad3d4c2d966f"
     },
     "SNA4DSData": {
       "Package": "SNA4DSData",
-      "Version": "0.9.902",
+      "Version": "0.9.905",
       "Source": "GitHub",
       "RemoteType": "github",
       "RemoteHost": "api.github.com",
-      "RemoteUsername": "SNAnalyst",
       "RemoteRepo": "SNA4DSData",
-      "RemoteRef": "master",
-      "RemoteSha": "550420b017aed545e7b4594a7be4b1263c875885",
-      "Hash": "df0db3d6a68dc2fe462125099d12b823"
+      "RemoteUsername": "SNAnalyst",
+      "RemoteRef": "HEAD",
+      "RemoteSha": "750b783218f7c01099579e87649de5aaf8e2f6c1",
+      "Hash": "0c980cfc2dde2cf3debf7ae899706862"
     },
     "abind": {
       "Package": "abind",
@@ -460,8 +460,8 @@
       "RemoteUsername": "rstudio-education",
       "RemoteRepo": "gradethis",
       "RemoteRef": "master",
-      "RemoteSha": "ededf4b32a2e412de0838909b34903bbe36dd7d4",
-      "Hash": "5650251bedd80938e7c4ae3f3d9d8f20"
+      "RemoteSha": "26741c624a5d7d3bf4b14828eca2fb1da13927ff",
+      "Hash": "c9f67b64c69cda3b9dd835e793ad8950"
     },
     "gtools": {
       "Package": "gtools",
@@ -596,10 +596,10 @@
     },
     "lattice": {
       "Package": "lattice",
-      "Version": "0.20-44",
+      "Version": "0.20-45",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "f36bf1a849d9106dc2af72e501f9de41"
+      "Hash": "b64cdbb2b340437c4ee047a1f4c4377b"
     },
     "lazyeval": {
       "Package": "lazyeval",
@@ -671,10 +671,10 @@
     },
     "mgcv": {
       "Package": "mgcv",
-      "Version": "1.8-36",
+      "Version": "1.8-37",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "93cc747b0e1ad882a4570463c3575c23"
+      "Hash": "42ee1ee3259845fd07819f58022a3532"
     },
     "mime": {
       "Package": "mime",
@@ -731,6 +731,13 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "3a3dc184000bc9e6c145c4dbde4dd702"
+    },
+    "numDeriv": {
+      "Package": "numDeriv",
+      "Version": "2016.8-1.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "df58958f293b166e4ab885ebcad90e02"
     },
     "openssl": {
       "Package": "openssl",
