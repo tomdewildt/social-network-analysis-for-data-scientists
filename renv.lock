@@ -86,6 +86,13 @@
       "Repository": "CRAN",
       "Hash": "cc151930e20e16427bc3d0daec62b4a9"
     },
+    "Rcereal": {
+      "Package": "Rcereal",
+      "Version": "1.2.1.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "fa7a0850c962e36e552a02ae5e01a21a"
+    },
     "Rcpp": {
       "Package": "Rcpp",
       "Version": "1.0.7",
@@ -111,11 +118,11 @@
       "Source": "GitHub",
       "RemoteType": "github",
       "RemoteHost": "api.github.com",
-      "RemoteRepo": "SNA4DSData",
       "RemoteUsername": "SNAnalyst",
-      "RemoteRef": "HEAD",
+      "RemoteRepo": "SNA4DSData",
+      "RemoteRef": "master",
       "RemoteSha": "750b783218f7c01099579e87649de5aaf8e2f6c1",
-      "Hash": "0c980cfc2dde2cf3debf7ae899706862"
+      "Hash": "06904b6ddb2686182f75ffd7fc8278c7"
     },
     "abind": {
       "Package": "abind",
@@ -745,6 +752,13 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "f4dbc5a47fd93d3415249884d31d6791"
+    },
+    "outliertree": {
+      "Package": "outliertree",
+      "Version": "1.7.6",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "727c0cb3074e9adfd454637d9d1bf71f"
     },
     "papaja": {
       "Package": "papaja",
