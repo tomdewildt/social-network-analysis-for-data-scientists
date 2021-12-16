@@ -127,3 +127,7 @@ $RECYCLE.BIN/
 ### Custom ###
 # Scratch notebook
 src/scratch.R
+
+### Exams ###
+src/exam/practice_exam.R
+src/exam/exam.R
