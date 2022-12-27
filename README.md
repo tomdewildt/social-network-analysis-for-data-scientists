@@ -1,5 +1,5 @@
 # Social Network Analysis For Data Scientists
-[![Build](https://img.shields.io/github/workflow/status/tomdewildt/social-network-analysis-for-data-scientists/ci/master)](https://github.com/tomdewildt/social-network-analysis-for-data-scientists/actions?query=workflow%3Aci)
+[![Build](https://img.shields.io/github/actions/workflow/status/tomdewildt/social-network-analysis-for-data-scientists/ci.yml?branch=master)](https://github.com/tomdewildt/social-network-analysis-for-data-scientists/actions/workflows/ci.yml)
 [![License](https://img.shields.io/github/license/tomdewildt/social-network-analysis-for-data-scientists)](https://github.com/tomdewildt/social-network-analysis-for-data-scientists/blob/master/LICENSE)
 
 Code for The Social Network Analysis For Data Scientists course of my master's degree.
